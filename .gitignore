@@ -1,3 +1,2 @@
 .vscode/
-
-*.data/
+torch_dym_quan/data/
